@@ -1,2 +1,2 @@
 #vue-imusic
-预览：ywt1996.top/imusic
+基于vue的网易云 预览：www.ywt1996.top/imusic
